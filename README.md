@@ -1,6 +1,6 @@
-#Pasos realizados 
+# Pasos realizados 
 .
-###Esqueleto
+### Esqueleto
 - Se crea un esqueleto para el proyecto de la siguiente manera:
     - app
         - config
@@ -16,7 +16,7 @@
 <br>
 - En cada carpeta se crean las distintas funcionalidades, es decir, la gestión de rutas, la creación del middleware (uso de Jwt, token...), además de crear los controladores y los archivos de configuración de la BBDD
 <br>
-###Diferencias entre entregas
+### Diferencias entre entregas
 - En la primera entrega se realiza el trabajo con SQL y Sequelize, sin embargo en la segunda se realiza con MongoDB y Mongoose, con lo que hay que modificar los distintos documentos del proyecto, como por ejemplo los modelos. 
 Con SQL tienen la siguiente estructura:
 ```
@@ -61,7 +61,7 @@ const userSchema = new mongoose.Schema({
 
 <hr>
 
-#Funcionamiento de la app
+# Funcionamiento de la app
 
 Página de login con 2 botones:
 
