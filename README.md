@@ -1,4 +1,5 @@
 #Pasos realizados 
+.
 ###Esqueleto
 - Se crea un esqueleto para el proyecto de la siguiente manera:
     - app
