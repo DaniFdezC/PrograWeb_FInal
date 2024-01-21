@@ -13,7 +13,7 @@
         - html
         - js
     - server.js
-    - 
+  
 <br>
 
 - En cada carpeta se crean las distintas funcionalidades, es decir, la gestión de rutas, la creación del middleware (uso de Jwt, token...), además de crear los controladores y los archivos de configuración de la BBDD
